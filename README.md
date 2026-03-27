@@ -17,7 +17,7 @@ I’m Olivia. I’m an artist and programmer creating in computational spaces. I
 | [Babel's Digital Forest](https://github.com/pulustelu/babels-digital-forest) | A respository of every 88x31 on the internet, plus more! |
 
 
-I've also [designed many esoteric programming languages](esolangs.org/wiki/User:pulustelu), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). Other major projects of mine include various Discord bots such as [robot-is-you](https://github.com/pulustelu/robot-is-you), also based around Baba Is You.
+I've also [designed many esoteric programming languages](https://esolangs.org/wiki/User:pulustelu), such as [Zirconium](https://esolangs.org/wiki/Zirconium) (in which you control a drone network), [5D Brainf\*ck With Multiverse Time Travel](https://esolangs.org/wiki/5D_Brainfuck_With_Multiverse_Time_Travel) (an extension of the famous esolang), or [Babalang](https://esolangs.org/wiki/Babalang) (a tribute to Baba Is You). Other major projects of mine include various Discord bots such as [robot-is-you](https://github.com/pulustelu/robot-is-you), also based around Baba Is You.
 
 Given my experience in programming language design and implementations, I'm also a polyglot! I pick up languages with ease. My current languages include Python, Rust, Typescript/Javascript (Vanilla / React), Scala, Elm, APL (Dyalog), Kotlin, C, C++, Haskell. I'm also interested in developing using Elixir, Swift, Svelte, or other languages / frameworks new to me. I pick them up quickly :)
 
